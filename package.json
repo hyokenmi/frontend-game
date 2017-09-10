@@ -1,0 +1,19 @@
+{
+  "name": "frontend-nanodegree-arcade-game",
+  "version": "1.0.0",
+  "description": "This is a project to build an web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyokenmi/frontend-game.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Jianmei F.",
+  "license": "ISC",
+  "homepage": "https://github.com/udacity/frontend-nanodegree-arcade-game#readme"
+}
